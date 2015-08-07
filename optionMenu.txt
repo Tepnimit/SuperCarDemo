@@ -1,0 +1,14 @@
+================================
+WELCOME TO SUPERCAR OPTIONS MENU
+================================
+
+l : Select Car Color
+e : Start Car Engine
+t : Stop Car Engine
+r : Turn on Radio
+c : Scan Radio
+g : Turn on Gps
+s : Increase Car Speed
+q : Quit
+
+Please select an option above: 
